@@ -31,22 +31,22 @@ https://www.edx.org/course/selling-ideas-how-influence-others-get-wharton-sellin
 ** Business Strategy from Wharton: Competitive Advantage **
 https://www.edx.org/course/business-strategy-wharton-competitive-wharton-strategyx-4
 
-** Strategic Management **
+**Strategic Management **
 https://www.edx.org/course/strategic-management-iimbx-st101x-0
 
 ## Leadership
 
-** Becoming an Effective Leader **
+**Becoming an Effective Leader **
 https://www.edx.org/course/becoming-effective-leader-uqx-buslead1x
 
-** Leading the Organization **
+**Leading the Organization **
 https://www.edx.org/course/leading-organization-uqx-buslead2x
 
-** Leading High-Performing Teams **
+**Leading High-Performing Teams **
 https://www.edx.org/course/leading-high-performing-teams-uqx-buslead3x
 
-** Leading in a Complex Environment **
+**Leading in a Complex Environment **
 https://www.edx.org/course/leading-complex-environment-uqx-buslead4x
 
-** Adaptive Leadership in Development **
+**Adaptive Leadership in Development **
 https://www.edx.org/course/adaptive-leadership-development-uqx-lgdm3x-0

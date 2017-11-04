@@ -14,7 +14,7 @@ https://www.edx.org/course/contractsx-2017-harvardx-hls2x
 ## Accounting
 
 
-### Accounting Essentials for MBA Success
+*Accounting Essentials for MBA Success*
 https://www.edx.org/course/accounting-essentials-mba-success-imperialx-icbs001
 
 https://www.edx.org/course/accounting-decision-making-iimbx-ac103x-1
